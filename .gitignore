@@ -1,0 +1,29 @@
+# macOS and editor artifacts
+.DS_Store
+**/.DS_Store
+*.swp
+*.swo
+*~
+
+# Local session/runtime state
+.session-state.json
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+tmp/
+*.log
+
+# Credentials and machine-local configuration
+.auths.md
+.env
+.env.*
+!.env.example
+.npmrc
+*.key
+*.pem
+*.p12
+*.pfx
+

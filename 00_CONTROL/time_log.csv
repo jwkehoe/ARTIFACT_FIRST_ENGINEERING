@@ -1,0 +1,2 @@
+timestamp_start,timestamp_end,duration_minutes,category,tag,session_id,artifact,notes
+"2026-08-23T09:00:00-05:00","2026-08-23T09:45:00-05:00","45.0","writing","scaffold-check","2026-08-23-paper","docs/Artifact-First Engineering.md","KEELPAPER smoke test"

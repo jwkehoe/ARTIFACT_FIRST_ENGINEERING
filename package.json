@@ -1,0 +1,12 @@
+{
+  "name": "artifactfirst-paper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start:session": "node scripts/start-session.mjs",
+    "infer:session": "node scripts/infer-session-log.mjs",
+    "log:session": "node scripts/log-writing-session.mjs",
+    "close:session": "node scripts/session-close.mjs"
+  }
+}
