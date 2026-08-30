@@ -37,7 +37,8 @@ documents, authority order, and source-packet lookup.
 
 | Key | Citation / Link | Source Type | Supports | Citation Boundary | Master Location |
 |---|---|---|---|---|---|
-| CASE-01 | [Case Study: AI-Accelerated Development of a B2C Outreach SaaS Product](</Users/meat/Development/Artifact-First-Engineering-Paper/docs/Case%20Study%20AI-Accelerated%20Development%20of%20a%20B2C%20Outreach%20SaaS%20Product.pdf>) | Local anonymized evidence digest | Founder SaaS chronology, artifact trail, documented controls and reversals, test/deployment evidence, time-accounting method, and bounded cost model | Not independent third-party validation; does not prove market fit, enterprise scale, or organization-wide governance | Sections 1-15, 22, 25 |
+| CASE-01 | [Case Study: AI-Accelerated Development of a B2C Outreach SaaS Product](Case%20Study%20AI-Accelerated%20Development%20of%20a%20B2C%20Outreach%20SaaS%20Product.pdf) | Local anonymized evidence digest | Founder SaaS chronology, artifact trail, documented controls and reversals, test/deployment evidence, time-accounting method, and bounded cost model | Not independent third-party validation; does not prove market fit, enterprise scale, or organization-wide governance | Sections 1-15, 22, 25 |
+| CASE-02 | [Canonical Master Integration And Operational-Use Correction](../00_CONTROL/DECISION_PATH.md) | Direct operator confirmation recorded 2026-08-30 | Current use of the deployed MVP as the CEO's daily driver and demonstration system | Does not prove external customer adoption, revenue, usage volume, retention, market fit, enterprise scale, or completed security maturity | Abstract, proof register, Sections 1, 9, 11, 25-26 |
 
 ## B. Policy, Provider, And Security Sources
 
@@ -95,7 +96,7 @@ documents, authority order, and source-packet lookup.
 
 | Claim Area | Current Coverage | Open Need |
 |---|---|---|
-| Founder SaaS delivery and artifact control | CASE-01 | More anonymized before/after artifact fragments for book-level proof density |
+| Founder SaaS delivery, artifact control, and current internal use | CASE-01 and CASE-02 | More anonymized before/after artifact fragments and quantified usage evidence for book-level proof density |
 | Outbound blast-radius controls | POL-01 through POL-05 | Controlled pilot evidence if claiming operational effectiveness at scale |
 | Offshore coordination and rework mechanism | RES-01 through RES-05 | Organization-specific data before claiming a local cost multiplier |
 | Cold-start CTO and founder-transition risk | RES-06 through RES-12 | Direct CTO-focused studies or multiple documented CTO-transition cases |
@@ -107,4 +108,4 @@ documents, authority order, and source-packet lookup.
 **Status:** Citable-source ledger. Revalidate `POL-*` and `WEB-*` sources when
 the paper is prepared for publication because policy and provider facts change.
 
-**Recorded:** 2026-08-24
+**Recorded:** 2026-08-30

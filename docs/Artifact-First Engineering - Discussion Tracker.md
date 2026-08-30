@@ -413,7 +413,7 @@ The method took a business with real IP already invested, a ready/baked idea, an
 - Build an `ARTIFACT_FIRST_METHOD.md` standalone methodology document.
 - Cross-reference the standalone KEEL and BLACKBOX repositories or artifacts when preparing a source-backed final paper.
 - Add a small diagram pack for the paper: delivery system, ledger, maturity model, control plane/data plane.
-- Draft the full 8,000-12,000 word paper from the mondo prompt.
+- Derive a focused 12,000-18,000-word public paper from the canonical basin after its evidence and structure pass stabilizes.
 - Produce a shorter public article version after the full paper stabilizes.
 
 ### 16. Role Clarity And Gap Register

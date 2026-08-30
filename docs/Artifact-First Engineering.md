@@ -1,26 +1,46 @@
 # ARTIFACTFIRST
 
-## How I Used AI To Build A Production-Minded SaaS Delivery System Without Vibe Coding
+## How To Keep AI-Accelerated Delivery Accountable When The Work Is Already Moving
 
-## Master Document Status
+## Master Basin Status
 
-This is the master evidence and argument document. It is deliberately broad. It is the basin document, not a set of separate papers competing for authority. Every derivative article, proposal, interview narrative, or eventual book chapter should draw from this source and preserve its proof boundaries.
+This is the canonical evidence and argument basin for ARTIFACTFIRST. It is deliberately broad: every derivative article, white paper, proposal, interview narrative, or eventual book chapter should draw from this source and preserve its proof boundaries. The separate KATIE draft remains part of the lineage, but its strongest operational language has now been deliberately promoted here. It does not compete with or silently replace this master.
 
-The document carries four argument streams at once: the startup case study, the founder-CTO operating argument, the enterprise method for high-velocity AI delivery, and the governance slipstreaming model. Those streams may later become audience-specific documents, but the authority stays here. The master retains the factual spine, proof register, implementation detail, operating theory, evidence limits, and enterprise extensions in one place.
+The master carries four connected arguments: a founder SaaS case study; a founder-CTO delivery argument; an enterprise architecture-evidence method for high-velocity AI work; and a management-control model for cost, lifecycle, and business value. The case proves a bounded delivery system. The enterprise method is an explicit proposal informed by the case, research, and an anonymized interview-derived operating scenario. Those are not the same kind of evidence.
 
-The current target is not polish. The current target is maximum useful content for a publishable base paper. A strong public white paper likely needs 12,000 to 15,000 words. A full canonical base paper likely needs 18,000 to 25,000 words. A short book would likely require 35,000 to 45,000 words and would need additional chapters, examples, objections, and reusable templates. This master should first become the 20,000-word evidence basin before any book decision is treated as real.
+The content-accumulation target has been passed. At more than 33,000 words, this document is no longer waiting to become a 20,000-word evidence basin. The work now is harder and more valuable: straighten the causal argument, increase proof density, reconcile citations, remove stale scaffolding, expose the reusable method, and make every consequential claim survive a hostile reader. Public derivatives may be shorter. The authority stays here.
 
 ## Abstract
 
-This is an anonymized case study of a founder-led B2C outreach SaaS build. The business did not lack an idea. The founder had invested roughly 80 hours in the product story, workflow logic, schema thinking, and Figma work. What it lacked was an execution system. A prior route had consumed roughly six months of calendar time and produced no usable shipped product.
+AI has changed the order in which engineering problems appear. Teams can now generate a prototype, an agent specification, or a production-facing workflow before a conventional architecture review would have finished identifying the systems, permissions, costs, and failure modes involved. The resulting work is not necessarily bad. It is simply moving faster than the organization can keep legible. The dangerous condition is not experimentation. It is an experiment that quietly acquires production data, external authority, customer impact, or management reliance without a corresponding evidence and recovery path.
 
-I was brought in to turn that intent into a controlled delivery system. The result was a live, full-feature MVP in roughly 40 hours of time-in-motion, with the detailed accounting showing about 44.7 hours from CTO handoff through the latest measured state and 34.2 hours directly measured from timestamped sessions. The headline is not that AI typed code quickly. The headline is that I used AI inside a system where durable artifacts controlled scope, architecture, reversals, verification, reporting, and restartability.
+This paper develops ARTIFACTFIRST as a response to that condition. It is an anonymized case study of a founder-led B2C outreach SaaS build in which a previous route had consumed roughly six months of calendar time without a usable shipped product. The founder had already done the invention work: product narrative, workflow logic, schema thinking, and Figma design. The missing component was an execution system that could turn intent into a live, inspectable product without losing the decisions and controls required to operate it.
 
-I used AI for discovery synthesis, implementation, debugging, test support, documentation, regulatory and provider-policy research, and adversarial review. I did not delegate product judgment, risk acceptance, or completion criteria to it. The product itself deliberately deferred customer-facing AI from v1 because the value, margin, portability, provider-risk, and operating case did not justify it. Instead, AI improved the delivery system: the work produced tests, CI gates, deployment verification, time and cost evidence, decision control, compliance-aware architecture, and a reusable template for the next build.
+The first move is deliberately small: create a design packet, not a bureaucracy. The packet captures enough of the business problem, user, first releasable slice, data and authority boundaries, external dependencies, acceptance tests, and explicit non-goals to make the next action buildable. Then roll it forward. Every meaningful decision, implemented change, test result, deployment fact, risk, cost signal, and unresolved question updates the packet or links back to it. The design is not a static specification waiting to become obsolete. It is the seed of the operating record.
+
+I built that system in a bounded AI-assisted delivery window. The source case records roughly 44.7 hours from CTO handoff through the latest measured state, with 34.2 hours directly measured from timestamped sessions. The point is not that AI typed code quickly. The point is that I used AI under an artifact and evidence system: source capture, decision records, risk controls, tests, CI, deployment verification, time and cost records, session closure, and a handoff-ready account of what changed.
+
+The system is not merely deployed or available for inspection. The current operator confirms that it is the CEO's daily driver and demonstration system. That fact strengthens the operational-use claim, but it does not convert internal executive use into evidence of customer adoption, revenue, high-volume production, or enterprise scale.
+
+The case also exposes the larger enterprise problem. A high-velocity organization cannot wait for perfect requirements and a pristine architecture meeting before it begins to build. The architect therefore has to work as an embedded operator: find the actual state, fix or contain the highest-consequence defect, prove what changed, own the decision and recovery path, and measure whether the work pays rent. Architecture is not absent from this model. It is made visible through an architecture evidence pack that travels with the work rather than appearing as a late permission gate.
+
+ARTIFACTFIRST does not claim that one founder build proves enterprise AI governance. It claims that the case demonstrates the ingredients of a repeatable control system and that those ingredients can be tested as a proportional, slipstreamed governance method for faster organizations.
+
+## The Argument In One Page
+
+ARTIFACTFIRST makes five connected claims, and each claim has a different evidentiary burden.
+
+1. **The case claim is measured and bounded.** A founder-led product that had stalled for roughly six months moved to a live, full-feature MVP through a documented AI-assisted delivery window with a measured subset, test evidence, deployment evidence, decision records, known hardening gaps, and current use as the CEO's daily driver and demonstration system.
+2. **The engineering claim is causal.** AI created leverage because source intent, architecture, reversals, verification, cost, and handoff had durable places to land. Speed without that control plane would have produced more output, not necessarily more accepted work.
+3. **The authority claim is non-delegable.** AI can collect candidate artifacts, draft records, extend test harnesses, run checks, and surface missing evidence. Humans still own product judgment, risk acceptance, release authority, exception handling, and the decision to promote, pause, constrain, or kill a capability.
+4. **The enterprise claim is a testable extension.** The same control pattern can be inserted into moving AI work through design packets, evidence packs, lifecycle states, telemetry, and proportional release gates. The founder case motivates that method; it does not by itself validate organization-wide governance.
+5. **The management claim is economic.** AI-enabled work should be evaluated by accepted outcomes, rework, operating burden, risk retired, business-system and revenue-line connection, and lifecycle state—not by generated files, token consumption, test counts, or demo velocity alone.
+
+The through-line is simple: **AI does not remove the need for engineering management; it compresses the time available to do it.** Artifact-first engineering keeps judgment, proof, authority, recovery, and economics attached to work after the output machine gets fast.
 
 ## Proof Register: What The Evidence Can Carry
 
-The paper's authority rests on specific evidence objects, not a retrospective story alone. The local source packet contains the anonymized [case-study PDF](</Users/meat/Development/Artifact-First-Engineering-Paper/docs/Case%20Study%20AI-Accelerated%20Development%20of%20a%20B2C%20Outreach%20SaaS%20Product.pdf>) and the current paper-control artifacts. The PDF identifies the original project's evidence surfaces: version-control history, CI configuration, decision and risk logs, changelog, test results, time-log derivation, architecture documents, and deployment records. Where the original repository is not included in this paper package, I treat the case-study PDF as the accessible evidence digest and do not pretend the raw source files are present here.
+The paper's authority rests on specific evidence objects, not a retrospective story alone. The local source packet contains the anonymized [case-study PDF](Case%20Study%20AI-Accelerated%20Development%20of%20a%20B2C%20Outreach%20SaaS%20Product.pdf) and the current paper-control artifacts. The PDF identifies the original project's evidence surfaces: version-control history, CI configuration, decision and risk logs, changelog, test results, time-log derivation, architecture documents, and deployment records. Where the original repository is not included in this paper package, I treat the case-study PDF as the accessible evidence digest and do not pretend the raw source files are present here.
 
 | Claim | Evidence object or source class | What it proves | What it does not prove |
 | --- | --- | --- | --- |
@@ -28,64 +48,12 @@ The paper's authority rests on specific evidence objects, not a retrospective st
 | Roughly 44.7-hour AI window; 34.2-hour measured subset | Transcript-derived time log and documented measurement rule | Bounded time-in-motion analysis | Universal productivity multiplier or total cognitive effort |
 | 184 commits, nine authenticated screens, Gmail OAuth, 170 tests | Git history, functional matrix, deployment/test evidence summarized in the case study | Measured build-state evidence at the stated audit point | Adoption, revenue, or production scale |
 | Tenant-control correction and policy reversals | Decision path, changelog, test evidence summarized in the case study | The delivery system discovered and recorded real corrections | Finished enterprise-security certification |
+| CEO daily-driver and demonstration use | Direct operator confirmation, 2026-08-30 | Current internal executive use beyond deployment availability | Customer adoption, revenue, usage volume, retention, or enterprise scale |
 | $40 AI tooling and estimated $81/$119 stack posture | Subscription and budget model summarized in the case study | Early-build and early-production cost hypotheses | Current vendor price or a complete operating budget |
 | KEEL, BLACKBOX, ledger, maturity model | Extracted project artifacts and method design | Reusable scaffolding and a coherent proposed method | Multi-organization validation |
 | Portfolio governance, lifecycle states, and telemetry | Enterprise extension derived from the method and interview context | A decision-ready operating model to pilot | Evidence that it has already improved a large portfolio |
 
 Evidence has four classes in this master document. `Implemented and measured` means the source case records a concrete state or event with an underlying project artifact. `Documented` means the case records a decision, design, control, or intended hardening path but does not independently demonstrate a long-running outcome. `Modeled` means a time, cost, or comparative estimate based on stated assumptions. `Proposed` means a reusable or enterprise extension that follows from the case but still needs application-level validation. The final papers must preserve those labels in substance even when they do not repeat this table.
-
-## Book-Distance Register
-
-This master is already large enough to support a serious paper. It is not yet a book. A book is not a longer version of the same claim. A book would need a broader evidence architecture, more scenes from the work, more negative cases, more objection handling, and more transferable operating material.
-
-The fastest credible path is to expand this paper in layers. First, deepen the case chronology and artifact inventory so the reader can see how the work moved from founder intent to verified software. Second, deepen the method so ARTIFACTFIRST is not only a name but a reusable sequence of decisions, artifacts, and gates. Third, deepen the governance and telemetry system so the enterprise argument can stand without pretending that a founder MVP proves enterprise scale. Fourth, add failure modes and objections so the argument survives contact with skeptical CTOs, operators, security leaders, and executives.
-
-| Target form | Approximate length | What must be true |
-| --- | ---: | --- |
-| Long public essay | 8,000-10,000 words | Strong thesis, credible case, limited method |
-| Serious white paper | 12,000-15,000 words | Proof register, artifact inventory, method, boundaries |
-| Canonical base paper | 18,000-25,000 words | Full case, operating model, telemetry, governance, objections |
-| Short book | 35,000-45,000 words | Chapters, examples, templates, negative cases, adoption playbook |
-| Full technical trade book | 55,000-75,000 words | Multiple cases, interviews, research basis, implementation guide |
-
-The honest next target is the canonical base paper. That means adding roughly 10,000 to 17,000 words beyond the current draft, but the words only matter if they increase proof density. The master should answer five questions cleanly: what was built, what evidence proves it, what AI changed, what human judgment controlled, and how management would know whether future AI-enabled work is effective.
-
-For a publishable book, the missing substance is identifiable:
-
-| Missing layer | Required content | Evidence class |
-| --- | --- | --- |
-| Chronological case narrative | A more detailed sequence from stalled product to source capture, PRD, architecture, implementation, verification, and handoff | Implemented and measured or documented |
-| Artifact inventory | Each artifact, its control role, owner, proof value, and failure mode if absent | Documented |
-| Operator doctrine | What the founder-CTO/operator actually owns and refuses to outsource to AI | Documented and proposed |
-| Governance method | How controls enter moving work without stopping it | Proposed |
-| Telemetry model | How token burn, dollar burn, runtime, execution cost, business system, revenue line, and lifecycle state connect | Proposed |
-| Negative cases | What happens when teams optimize for output, token minimization, token maximization, or dashboards with no decision rights | Proposed and analytic |
-| Objection handling | Responses to skeptical founder, CTO, security, finance, and enterprise architecture objections | Analytic |
-| Templates | Reusable schemas, decision records, session logs, evidence packs, and review menus | Documented and proposed |
-
-The book becomes real only when it can show the work, teach the method, and survive the hostile reader. A hostile reader will not care that AI helped. They will ask whether the product exists, whether the evidence can be inspected, whether the risks were found early, whether the cost model is honest, whether the work can be handed off, and whether the same method prevents waste at portfolio scale.
-
-## Book Architecture If This Becomes One
-
-The book version should not be organized as a chronological memoir. It should be organized as an operating doctrine with the case study as the proof spine. The reader should finish with a way to run the method, inspect claims, and decide whether AI-enabled work deserves continued investment.
-
-| Part | Working title | Job |
-| --- | --- | --- |
-| I | The Stalled Product | Establish the founder case, prior stall, source material, and delivery problem |
-| II | The Artifact Control Plane | Teach PRD, Annex, decision path, risk register, tests, CI, reporting, and session closure |
-| III | AI Under Authority | Show where AI helped, where it was bounded, and how generation becomes accepted work |
-| IV | Speed With Evidence | Present time-in-motion, cost model, test evidence, and proof boundaries |
-| V | Founder-CTO Conversion | Explain the advisory/operator role and how founder intent becomes executable structure |
-| VI | Governance At Startup Speed | Show how controls slip into moving work without theatrical slowdown |
-| VII | Telemetry And Rent | Build the management loop for token burn, dollar burn, runtime, business tie, and lifecycle state |
-| VIII | Failure Modes | Handle objections, fake artifacts, zombie inventory, overbuilt governance, and unsupported AI claims |
-| IX | Operating Manual | Provide templates, schemas, checklists, and evidence-pack examples |
-
-The working book thesis would be: AI does not remove the need for engineering management; it compresses the time available to do it. Artifact-first engineering is a way to keep judgment, proof, governance, and economics attached to work after the output machine gets fast.
-
-The book would need at least three kinds of additional material. First, it needs more primary examples from the source build: sample records, anonymized decision entries, sample time-log excerpts, and concrete before/after artifact fragments. Second, it needs negative examples: what a fake PRD looks like, what a useless dashboard looks like, what token thrift gets wrong, what output theater looks like. Third, it needs adoption material: how a founder uses it, how a CTO uses it, how an enterprise architecture or AI-governance function pilots it without getting laughed out of the room.
-
-The base paper should not try to become all of that yet. Its job is to carry the argument densely enough that the book can be expanded from a strong center instead of inflated from a thin essay.
 
 ## 1. Introduction: The Problem Was Not Typing Code
 
@@ -93,15 +61,19 @@ The project did not begin as a greenfield toy. It began with a business that had
 
 The hard part was not writing React. The hard part was compressing founder intent, design evidence, multi-vendor architecture, compliance exposure, deployment constraints, and AI-assisted execution into one chain that could produce a live MVP. I was brought in on reputation in a founder-facing CTO/advisory role. That kind of authority is not title gravity. It depends on trust, truth-telling, visible control, and the ability to say both what can be done now and what should not be built yet.
 
-The business transformation is therefore best stated plainly: a ready idea with real IP had spent six months stalled; artifact-first AI engineering gave it a governed route to a live, full-feature MVP in roughly 40 hours of time-in-motion. The task was not to generate an app. It was to turn intent into a delivery system that could explain itself.
+The business transformation is therefore best stated plainly: a ready idea with real IP had spent six months stalled; artifact-first AI engineering gave it a governed route to a live, full-feature MVP in roughly 40 hours of time-in-motion, and that system now serves as the CEO's daily driver and demonstration environment. The task was not to generate an app. It was to turn intent into an operating system that could explain itself.
 
 ## 2. Definition: Artifact-First Engineering
 
-Artifact-first engineering is a delivery model in which durable project artifacts, not chat threads or developer memory, control scope, architecture, decisions, verification, reporting, and restartability. The artifacts are the operating memory of the build.
+Artifact-first engineering is a delivery and repair model in which durable, reviewable artifacts, not chat threads or private memory, make intent, architecture, decisions, verification, cost, ownership, and recovery inspectable while work is moving. The artifacts are the operating memory of the build, but they are not a paperwork sequence that must be completed before delivery begins.
+
+In an orderly project, the control artifacts can be created before the first production change. In a high-velocity organization, many will be assembled alongside or after early implementation. That is not a reason to abandon control. It changes the job: reconstruct the real state, identify authority and blast radius, attach the smallest control that changes behavior, and make the promotion, containment, rollback, or retirement decision visible.
+
+The method has a practical economic rule: eliminate the scut work, not the judgment. AI and tooling collect artifact candidates from work already being done, assemble change and session reports, maintain links among decisions and implementation, generate and extend test harnesses, run repeatable checks, and surface missing evidence. The operator should not have to reconstruct a project by hand after the fact merely to explain what changed. Humans still decide what the system should do, what risk is acceptable, what evidence is sufficient, and when to promote, pause, or kill a capability. The purpose is to eliminate the administrative tax that makes teams avoid good controls, not to automate accountability away.
 
 In this case, that control plane included the canonical PRD, an As-Built Annex, decision path, risk register, changelog, time log, executive reports, architecture and operations documents, test suite, CI workflow, and source code. Each object did a different job. The PRD preserved original intent. The Annex recorded how implementation actually diverged. The decision path retained reversals and tradeoffs. Tests and CI supplied proof gates. Session reporting turned work state into something a founder or executive could read without spelunking through commits and chat scrollback.
 
-Vibe coding optimizes for local output: a convincing screen, a passing demo, a long chat history, or an impressive burst of generated files. Artifact-first engineering optimizes for accountable continuity. The difference is not whether AI writes code. The difference is whether the system can answer, under pressure: what was intended, what changed, why it changed, what was tested, what remains risky, and who owns the next decision.
+Vibe coding optimizes for local output: a convincing screen, a passing demo, a long chat history, or an impressive burst of generated files. Artifact-first engineering optimizes for accountable continuity. The difference is not whether AI writes code. The difference is whether the system can answer, under pressure: what was intended, what changed, why it changed, what was tested, what remains risky, what authority it has, what it costs, and who owns the next decision.
 
 | Artifact | Control role | Why it mattered in the case |
 | --- | --- | --- |
@@ -112,7 +84,7 @@ Vibe coding optimizes for local output: a convincing screen, a passing demo, a l
 | Time log and session reports | Creates operating evidence | Made pace, state, and work category reviewable |
 | Architecture and operations documents | Supports handoff and recovery | Reduced dependence on one operator's memory |
 
-The most important word in artifact-first engineering is not `artifact`. It is `control`. An artifact is useful only if it changes what the team can decide, verify, recover, or refuse. A stale PRD that nobody trusts is not a control. A risk register that never changes the plan is not a control. A decision log written after the fact to make the work look tidy is not a control. A test suite that is never run before release is not a control. The method works only when artifacts have jobs and those jobs are tied to real decisions.
+The most important word in artifact-first engineering is not `artifact`. It is `control`. An artifact is useful only if it changes what the team can decide, verify, recover, constrain, or refuse. A stale PRD that nobody trusts is not a control. A risk register that never changes the plan is not a control. A decision log written after the fact to make the work look tidy is not a control. A test suite that is never run before release is not a control. The method works only when artifacts have jobs and those jobs are tied to real decisions.
 
 The minimum standard is practical. If a new operator joined the project, could they answer what the product is, what was intended, what was built, what changed, what is risky, what is verified, what is deployed, what costs money, and what should happen next? If not, the project is still dependent on private memory. Private memory can be fast in the moment, but it is fragile under interruption, handoff, dispute, or scale.
 
@@ -276,6 +248,8 @@ The remaining hardening path should be stated without drama. The MVP does not cl
 Speed has no value if it lies about the state of the system. I built tests with the code rather than treating them as cleanup. The test suite ran against a real Neon development database rather than mocked database behavior. It included cross-tenant checks for people, templates, snippets, and sequences; sequence-step behavior; settings actions; admin-dashboard queries; demo actions; health checks; and Clerk-user purge regression coverage. At the latest measured point in the source case study, the suite stood at 170/170 passing.
 
 CI ran typecheck, lint, tests, and build on push. Vercel deployed through its GitHub integration, and I added post-push verification habits to check the actual deployment state rather than trusting a green pipeline in the abstract. The point was not to claim a full enterprise release program. The point was to keep AI-assisted local velocity tied to executable proof.
+
+Deployment was not the terminal state. The current operator confirms that the deployed MVP is used by the CEO as a daily driver and as the live demonstration system. That is meaningful operational evidence: the product carries recurring executive use rather than existing only as a dormant URL or staged screenshot. The boundary remains explicit. Internal CEO use does not by itself establish external customer adoption, revenue, production volume, retention, or enterprise-operating maturity.
 
 Fast development creates a specific failure mode: output appears before its assumptions have been exercised. Tests, CI, and deployment verification constrain that failure mode. They make speed answerable.
 
@@ -551,11 +525,11 @@ The central claim needs measurement discipline. A prior failed route, founder in
 | 4. Pre-code PM/research | Criteria, architecture, source sorting | Roughly 3.5 hours | Estimated |
 | 5. Proof-of-concept build | June scaffold and app shell | Roughly 4.17 hours | Measured/documented |
 | 6. Logged PM execution | Scoping, deciding, reviewing | Roughly 4.50 hours | Measured from transcripts |
-| 7. Logged development execution | Coding, tests, debugging, buildD | Roughly 25.56 hours | Measured from transcripts |
+| 7. Logged development execution | Coding, tests, debugging, builds | Roughly 25.56 hours | Measured from transcripts |
 
 The full AI-accelerated window, Gates 3 through 7, is best read as roughly 44.7 hours. Gates 5 through 7 provide the strongest measured subset at roughly 34.2 hours. The executive shorthand, "roughly 40 hours of time-in-motion," is useful only because the seven-gate model remains available behind it.
 
-In roughly 30 measured hours of sustained July-August development and PM sessions, the team produced a deployed application, nine real authenticated screens, Gmail OAuth send integration, tenant-isolation checks, a substantial control-document stack, 184 commits, and 170 passing automated tests at the latest measured point. The work was bursty rather than linear: the final three measured build days represented roughly 15 of 25.56 logged development hours, nearly 60 percent of measured development work. AI did not create a constant output machine. It supported concentrated, human-paced work under control.
+In roughly 30 measured hours of sustained July-August development and PM sessions, the team produced a deployed application, nine real authenticated screens, Gmail OAuth send integration, tenant-isolation checks, a substantial control-document stack, 184 commits, and 170 passing automated tests at the latest measured point. The deployed system now serves as the CEO's daily driver and demonstration environment. The work was bursty rather than linear: the final three measured build days represented roughly 15 of 25.56 logged development hours, nearly 60 percent of measured development work. AI did not create a constant output machine. It supported concentrated, human-paced work under control.
 
 The log is evidence, not omniscience. It does not capture every moment of founder or CTO cognition, account setup, or off-session thinking. Nor is this a randomized comparison against a second team building the same product. It is a bounded time-in-motion case study with a visible measurement rule.
 
@@ -1411,15 +1385,15 @@ Proof density can be increased without increasing the number of claims. For each
 
 This is also the paper's defense against the seductive number. "Forty hours" is memorable but incomplete. The more defensible statement is: a founder's previously stalled product moved through a bounded AI-assisted delivery window in which source intent was captured, implementation produced a live MVP with measured build-state evidence, real corrections were made, and the resulting control artifacts were extracted for reuse. The number is part of the evidence. It is not the argument by itself.
 
-## 22E. The Minimum Evidence Pack For A New Initiative
+## 22E. The Minimum Design And Evidence Pack For A New Initiative
 
-The method becomes deployable when the first thirty minutes of a new initiative create a useful evidence pack rather than a blank planning surface. The pack should be small enough to use under pressure and complete enough to expose the decisions that become expensive later.
+The method becomes deployable when the first thirty minutes of a new initiative create a useful design packet rather than a blank planning surface. The packet is the initial evidence pack: small enough to use under pressure and complete enough to expose the decisions that become expensive later. It is then rolled forward as the build changes. It does not wait for a separate documentation phase.
 
 The first page identifies the business owner, user or operator, business system touched, intended outcome, and the proposed success measure. The second page identifies data classes, identity and authorization boundaries, external providers, model or automation role, expected transaction volume, and known policy constraints. The third page lists the first releasable slice, acceptance tests, deployment path, disablement or rollback path, cost hypothesis, telemetry fields, and open decisions. The final page records what is explicitly out of scope.
 
 That last field matters. A team that cannot state what it is not building will absorb every plausible capability suggested by a model, stakeholder, vendor, or demo. Explicit non-goals protect the first release from capability creep. In the case study, no direct SMS, no social-DM automation, and no customer-facing AI in v1 were not failures to deliver. They were controlled non-goals that protected product viability and reduced policy and operating exposure.
 
-The evidence pack should be versioned with the work. It does not have to be perfect at intake. It has to show what is known, what is assumed, and what must be decided before promotion. As new facts appear, the pack points to the decision record or Annex rather than silently changing the original story.
+The design and evidence pack should be versioned with the work. It does not have to be perfect at intake. It has to show what is known, what is assumed, and what must be decided before promotion. As new facts appear, the packet rolls forward through the decision record, As-Built Annex, test harness, CI result, release record, telemetry, and session close rather than silently changing the original story.
 
 | Evidence-pack field | First decision it supports |
 | --- | --- |
@@ -1434,7 +1408,7 @@ The evidence pack should be versioned with the work. It does not have to be perf
 | Explicit non-goals | Which attractive capabilities are deliberately deferred |
 | Named open decisions | What cannot remain hidden inside implementation momentum |
 
-The pack is deliberately compatible with startup speed. A small team can keep it in Markdown and link it to commits, tests, and deployment records. A larger organization can map the same fields into existing portfolio, security, architecture, and financial systems. The structure should travel even when the tooling changes.
+The packet is deliberately compatible with startup speed. A small team can keep it in Markdown and link it to commits, tests, and deployment records. A larger organization can map the same fields into existing portfolio, security, architecture, and financial systems. The structure should travel even when the tooling changes. The delivery system eliminates the scut work: it collects candidate artifacts, summarizes changes, drafts reports, builds and runs test harnesses, and flags evidence gaps. The operator reviews the result and owns the decision.
 
 ## 22F. Worked Records: The Smallest Useful Version
 
@@ -1789,7 +1763,7 @@ It did not optimize for maximal feature count, token consumption, novelty, or a 
 
 ## 25. MVP Scope And Evidence Boundaries
 
-This is an MVP case study. It does not prove market fit, revenue, customer adoption, production scale, complete platform maturity, SOC 2 readiness, or finished enterprise security. It does not prove that AI replaced engineering judgment or that one productivity multiplier applies to every team, product, or stack. Some figures are measured; others are estimated and labeled as such.
+This is an MVP case study of a deployed system used as the CEO's daily driver and demonstration environment. That is stronger than a prototype or dormant deployment. It does not prove market fit, revenue, external customer adoption, production scale, complete platform maturity, SOC 2 readiness, or finished enterprise security. It does not prove that AI replaced engineering judgment or that one productivity multiplier applies to every team, product, or stack. Some figures are measured; others are estimated and labeled as such.
 
 The positive claim remains substantial. The method improved judgment by forcing option exploration before lock-in. It embedded policy and control questions into architecture formation. It produced a measured, test-backed, production-minded MVP and a reusable template for future builds. The scope boundary is not an apology. It is what makes the claim credible.
 
@@ -1799,12 +1773,66 @@ ARTIFACTFIRST was a governed AI-accelerated delivery system, not a demonstration
 
 AI accelerated discovery, implementation, debugging, verification support, documentation, reporting, and research. Human judgment remained the authority. Customer-facing AI was deferred because the product did not need it yet. Provider-policy and compliance constraints were discovered early and turned into architecture while the stack was still forming. Tests, CI, decision records, time measurement, and reporting kept speed visible and challengeable.
 
-The case produced more than a working MVP. It produced a reusable method: the Artifact-First Delivery System, a Development Efficiency And Effectiveness Ledger, and extracted operating primitives in KEEL and BLACKBOX. That is the real lesson. Artifact-first engineering is how I made speed accountable.
+The case produced more than a working MVP. It produced a deployed daily-driver and demonstration system for the CEO, plus a reusable method: the Artifact-First Delivery System, a Development Efficiency And Effectiveness Ledger, and extracted operating primitives in KEEL and BLACKBOX. That is the real lesson. Artifact-first engineering is how I made speed accountable.
 
-## Assumptions And Evidence Boundaries
+## Appendix A. Assumptions And Evidence Boundaries
 
 - The source case study is the factual basis for the SaaS-build figures, implementation controls, and cost/time models summarized here. It is an anonymized evidence packet, not independent third-party validation.
 - Six months of prior delay, roughly 80 founder hours, and Gates 3-4 are contextual or team estimates. The strongest time evidence is Gates 5-7 from timestamped session transcripts.
 - Stack-cost figures are early-production estimates and require re-verification before operational use.
+- Current CEO daily-driver and demonstration use is direct operator confirmation recorded on 2026-08-30; it is not contained in the older case-study PDF and is not presented as external customer-adoption evidence.
 - Enterprise portfolio telemetry, lifecycle accounting, authorization-aware RAG, model routing, AgentOps, and organization-wide governance are explicit extensions of the method. They are not claimed as proven by this MVP alone.
 - The paper preserves the public-safe anonymization boundary: the product, founder, customers, domains, and private accounts are not named.
+
+## Appendix B. Paper-To-Book Distance Register
+
+This master has crossed the content threshold for a canonical base paper and is approaching short-book length. That does not make it a book. A book is not a paper with more words; it needs multiple proof environments, sustained scenes, a reader progression, exercises or implementation material, and independent cases that can challenge the method rather than merely illustrate it.
+
+The fastest credible path is therefore not indiscriminate expansion. It is to finish the basin as an authoritative source, then derive the right surface from it. The master must keep the complete case chronology, artifact inventory, operating doctrine, governance hypothesis, telemetry model, worked records, negative cases, and objections. A public white paper can compress those layers. A book must deepen them with additional primary examples, independent cases, and a tested adoption playbook.
+
+| Target form | Approximate length | What must be true |
+| --- | ---: | --- |
+| Long public essay | 8,000-10,000 words | Strong thesis, credible case, limited method |
+| Serious white paper | 12,000-15,000 words | Proof register, artifact inventory, method, boundaries |
+| Canonical base paper | 18,000-25,000 words | Full case, operating model, telemetry, governance, objections |
+| Short book | 35,000-45,000 words | Chapters, examples, templates, negative cases, adoption playbook |
+| Full technical trade book | 55,000-75,000 words | Multiple cases, interviews, research basis, implementation guide |
+
+The honest current target is an evidence-stable canonical basin. Word count is no longer the constraint. The master must answer five questions without forcing the reader to reconstruct the thesis: what was built, what evidence proves it, what AI changed, what human judgment controlled, and how management would know whether future AI-enabled work is effective. Material that does not strengthen one of those answers should be relocated, compressed, or removed from a public derivative even if it remains useful in the basin.
+
+The remaining distance is now visible:
+
+| Layer | Current basin state | Remaining work before book treatment |
+| --- | --- | --- |
+| Chronological case narrative | Present as a bounded case chronology with measured and contextual gates | Add more source scenes and anonymized before/after artifact fragments |
+| Artifact inventory | Present with owners, control functions, proof value, and absence failures | Add full operating examples and adoption variants |
+| Operator doctrine | Present across founder-CTO, AI-authority, release, and handoff sections | Turn doctrine into explicit practices and exercises |
+| Governance method | Present as a proportional, slipstreamed enterprise hypothesis | Validate in at least one measured enterprise pilot |
+| Telemetry model | Present across token, dollar, runtime, lifecycle, capability, and business-value fields | Test definitions against real portfolio data and management decisions |
+| Negative cases | Present as control-faking patterns and failure modes | Add independently observed cases rather than analytic examples alone |
+| Objection handling | Present for founder, CTO, security, finance, governance, and architecture readers | Pressure-test with named expert or peer review |
+| Templates | Present as schemas, worked records, evidence packs, and review menus | Package, use, and revise them in additional projects |
+
+The book becomes real only when it can show the work, teach the method, and survive the hostile reader. A hostile reader will not care that AI helped. They will ask whether the product exists, whether the evidence can be inspected, whether the risks were found early, whether the cost model is honest, whether the work can be handed off, and whether the same method prevents waste at portfolio scale.
+
+## Appendix C. Book Architecture If This Becomes One
+
+The book version should not be organized as a chronological memoir. It should be organized as an operating doctrine with the case study as the proof spine. The reader should finish with a way to run the method, inspect claims, and decide whether AI-enabled work deserves continued investment.
+
+| Part | Working title | Job |
+| --- | --- | --- |
+| I | The Stalled Product | Establish the founder case, prior stall, source material, and delivery problem |
+| II | The Artifact Control Plane | Teach PRD, Annex, decision path, risk register, tests, CI, reporting, and session closure |
+| III | AI Under Authority | Show where AI helped, where it was bounded, and how generation becomes accepted work |
+| IV | Speed With Evidence | Present time-in-motion, cost model, test evidence, and proof boundaries |
+| V | Founder-CTO Conversion | Explain the advisory/operator role and how founder intent becomes executable structure |
+| VI | Governance At Startup Speed | Show how controls slip into moving work without theatrical slowdown |
+| VII | Telemetry And Rent | Build the management loop for token burn, dollar burn, runtime, business tie, and lifecycle state |
+| VIII | Failure Modes | Handle objections, fake artifacts, zombie inventory, overbuilt governance, and unsupported AI claims |
+| IX | Operating Manual | Provide templates, schemas, checklists, and evidence-pack examples |
+
+The working book thesis would be: AI does not remove the need for engineering management; it compresses the time available to do it. Artifact-first engineering is a way to keep judgment, proof, governance, and economics attached to work after the output machine gets fast.
+
+The book would need at least three kinds of additional material. First, it needs more primary examples from the source build: sample records, anonymized decision entries, sample time-log excerpts, and concrete before/after artifact fragments. Second, it needs negative examples: what a fake PRD looks like, what a useless dashboard looks like, what token thrift gets wrong, what output theater looks like. Third, it needs adoption material: how a founder uses it, how a CTO uses it, how an enterprise architecture or AI-governance function pilots it without getting laughed out of the room.
+
+The basin should not pretend those missing validations are complete. Its job is to carry the argument densely enough that every derivative can be cut from a strong center instead of inflated from a thin essay.

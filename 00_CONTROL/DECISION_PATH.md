@@ -1,6 +1,6 @@
 # ARTIFACTFIRST Decision Path
 
-Last updated: 2026-08-23
+Last updated: 2026-08-30
 
 Purpose: keep the paper package's meaningful editorial, naming, and publishing
 decisions visible instead of burying them in draft text or chat history.
@@ -76,6 +76,36 @@ bridge.
 artifacts, distinguish fact/inference/uncertainty/proposal, record corrections
 and decisions, and do not promote the local adapter's placeholder response as
 reasoning evidence.
+
+### 2026-08-30 - Canonical Master Integration And Operational-Use Correction
+
+**Conversation:** The user directed an aggressive review and revision of the
+master paper rather than another derivative memo. During the revision, the
+user corrected the operational state: the deployed product is used as the
+CEO's daily driver and demonstration system.
+
+**Decision:** Keep `docs/Artifact-First Engineering.md` as the canonical basin.
+Promote the strongest KATIE candidate language into that master, including the
+accountability-while-moving thesis, design-packet roll-forward, delivery-and-
+repair definition, and the rule to eliminate scut work rather than judgment.
+Retain `docs/Artifact-First Engineering KATIE.md` as lineage evidence; do not
+silently replace or delete it.
+
+**Operational-state correction:** State that the MVP is deployed and used as
+the CEO's daily driver and demonstration system. Treat this as direct operator
+confirmation dated 2026-08-30 because the older case-study PDF proves a
+deployed, continuously operating MVP but does not contain the later daily-use
+fact.
+
+**Evidence boundary:** CEO daily-driver and demonstration use proves recurring
+internal executive use beyond a dormant deployment. It does not by itself
+prove external customer adoption, revenue, usage volume, retention, market
+fit, enterprise scale, or completed security maturity.
+
+**Repository state:** Git was initialized with `main`; the private GitHub
+repository `jwkehoe/ARTIFACT_FIRST_ENGINEERING` was established; and the
+initial canonical workspace commit was pushed and verified before this
+revision pass.
 
 ## Decision Order
 

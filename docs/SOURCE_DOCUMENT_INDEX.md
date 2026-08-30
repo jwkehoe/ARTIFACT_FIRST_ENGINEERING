@@ -49,6 +49,7 @@ one undifferentiated corpus.
 | AF-09 | [Model Routing and Cost Grid](</Users/meat/Development/Artifact-First-Engineering-Paper/docs/Model%20Routing%20and%20Cost%20Grid%20-%20Sol%20Terra%20GPT-5.5%20GPT-5.4%20Luna.md>) | Working routing hypothesis, model-role assumptions, and linked official sources. Recheck the cited provider source before a budget claim. | Stable long-term API pricing or measured ARTIFACTFIRST productivity results. | `Sol`, `Terra`, `Luna`, `GPT-5.5`, `GPT-5.4`, `routing`, `token cost` |
 | AF-10 | [Vocabulary](</Users/meat/Development/Artifact-First-Engineering-Paper/docs/vocabulary.md>) | Controlled definitions, source labels, and translation rules for project language. | Direct proof that a term is general industry terminology. | `Sergey vocabulary`, `architecture evidence pack`, `invisible architecture`, `pay rent` |
 | AF-11 | [For this paper-writing purpose](</Users/meat/Development/Artifact-First-Engineering-Paper/docs/For%20this%20paper-writing%20purpose.md>) | Historical model-selection note only. | Current pricing or canonical model-routing facts; it conflicts with AF-09 and requires reconciliation before reuse. | `historical`, `model routing`, `pricing conflict` |
+| AF-12 | [Canonical Master Integration And Operational-Use Correction](</Users/meat/Development/Artifact-First-Engineering-Paper/00_CONTROL/DECISION_PATH.md>) | Direct operator confirmation that the deployed MVP is used as the CEO's daily driver and demonstration system; also records the deliberate KATIE-to-master language promotion. | External customer adoption, revenue, usage volume, retention, market fit, enterprise scale, or completed security maturity. | `CEO daily driver`, `demo system`, `operational use`, `KATIE promotion`, `2026-08-30` |
 
 ## B. Freedom Roads / Sergey Source Packet
 
@@ -115,7 +116,7 @@ to find the right authority before making a new or revised claim.
 
 | Source Group | Current Integration Into Master | Next Retrieval Need |
 |---|---|---|
-| Founder SaaS case | Core factual spine | Extract more primary examples and artifact fragments for publication proof density |
+| Founder SaaS case | Core factual spine plus direct confirmation of CEO daily-driver and demonstration use | Extract more primary examples, artifact fragments, and quantified usage evidence for publication proof density |
 | Project controls | Strong method and continuity support | Reconcile stale tracker items and pricing-source conflict |
 | Freedom Roads PD and transcript | Enterprise overlay, invisible architecture, portfolio telemetry, evidence packs | Add a worked ex post facto repair example and strengthen early thesis placement |
 | Resume and preparation materials | First-person positioning and gap discipline | Validate any new major claim against underlying project artifacts |
@@ -127,4 +128,4 @@ to find the right authority before making a new or revised claim.
 source becomes canonical, superseded, unavailable, or newly central to the
 master paper.
 
-**Recorded:** 2026-08-24
+**Recorded:** 2026-08-30

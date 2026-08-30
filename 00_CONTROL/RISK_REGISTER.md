@@ -1,6 +1,6 @@
 # Risk Register
 
-Last updated: 2026-08-23
+Last updated: 2026-08-30
 
 Purpose: record the risks most likely to degrade the paper package, its
 evidence quality, or its publication credibility.
@@ -14,6 +14,9 @@ evidence quality, or its publication credibility.
 | R-003 | Time log underuse | A schema without actual rows becomes theater | Log writing sessions as they happen; use session-close reporting | Open |
 | R-004 | Source/path drift | Old project references can survive in links or prose | Periodic `rg` sweeps before publication | Open |
 | R-005 | Chat-memory dependence | Decisions can vanish into conversation history | Record meaningful choices in control docs and session reports | Open |
+| R-006 | Operational-use claim lacks quantified usage evidence | CEO daily-driver and demonstration use is confirmed, but frequency, duration, workflow coverage, and outcomes are not yet captured in the paper packet | Add an anonymized dated usage record or operator attestation before external publication | Open |
+| R-007 | Basin/publication confusion | A 34,000-word authority document can be mistaken for the final reader-facing paper | Keep the basin canonical; derive and separately review the public paper rather than cutting the master in place | Open |
+| R-008 | Time-sensitive citation drift | Provider rules, model pricing, and policy guidance can change after drafting | Revalidate `POL-*` and `WEB-*` sources at publication lock | Open |
 
 ## Closure Convention
 
